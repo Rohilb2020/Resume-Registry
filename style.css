@@ -1,0 +1,14 @@
+label{
+    font-weight: normal;
+}
+*{
+    box-sizing:border-box;
+}
+#pass-status,#cnf_pass-status{
+    cursor: pointer;
+    height: 26px ; 
+}
+button{
+    height:26px;
+    vertical-align:middle;
+}
